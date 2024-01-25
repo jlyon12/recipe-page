@@ -11,8 +11,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page--B-38Y8gzY)
+- Live Site URL: [Add live site URL here](https://jlyon12.github.io/recipe-page/)
 
 ## My process
 
